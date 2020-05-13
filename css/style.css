@@ -1,0 +1,33 @@
+body {
+    background: rgb(252, 192, 192);
+    margin-left: 100px;
+    margin-right: 250px;
+}
+header{
+    margin-top: 50px;
+}
+h1 {
+    color: red;
+    font-family: Arial;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 60px;
+}
